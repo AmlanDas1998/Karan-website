@@ -1,0 +1,185 @@
+{
+  "hero": {
+    "name": "Karan Ahiriya",
+    "title": "Manager – Data Science & Analytics | ETL & Automation Specialist",
+    "tagline": "Delivering scalable data pipelines, automation, and operational efficiency in BFSI.",
+    "portraitImage": "assets/portrait.jpg",
+    "backgroundStyle": "gradient",
+    "ctas": [
+      {
+        "label": "Download Profile",
+        "link": "assets/KaranAhiriyaCV.pdf"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/in/karan-ahiriya"
+      }
+    ],
+    "theme": "dark"
+  },
+  "timeline": [
+    {
+      "company": "Poonawalla Fincorp",
+      "role": "Manager (Data Science and Analytics)",
+      "location": "Pune, India",
+      "startYear": 2022,
+      "endYear": "Present",
+      "logo": "assets/logos/poonawalla.png",
+      "description": "Managing automation processes, scalable data engineering, and operational efficiency for BFSI domain.",
+      "highlights": [
+        "Created and implemented automation processes for internal operations team.",
+        "Refined and monitored processes ensuring stability and durability of automation.",
+        "Focused on innovating with new technologies to enhance efficiency and accuracy."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "label": "Years of Experience",
+      "value": 2.5,
+      "suffix": "+",
+      "icon": "assets/icons/experience.png",
+      "animation": "counter"
+    },
+    {
+      "label": "Automation Projects Delivered",
+      "value": 4,
+      "suffix": "+",
+      "icon": "assets/icons/projects.png",
+      "animation": "counter"
+    },
+    {
+      "label": "Awards Won",
+      "value": 3,
+      "suffix": "",
+      "icon": "assets/icons/awards.png",
+      "animation": "counter"
+    },
+    {
+      "label": "Processes Automated",
+      "value": 10,
+      "suffix": "+",
+      "icon": "assets/icons/automation.png",
+      "animation": "counter"
+    }
+  ],
+  "awards": [
+    {
+      "title": "SpotOn Award",
+      "year": 2022,
+      "issuer": "Poonawalla Fincorp",
+      "description": "Awarded for creating Bureau reporting automation process.",
+      "image": "assets/awards/spoton1.png",
+      "type": "award",
+      "carousel": true
+    },
+    {
+      "title": "SpotOn Award",
+      "year": 2022,
+      "issuer": "Poonawalla Fincorp",
+      "description": "Awarded for delivering projects on time.",
+      "image": "assets/awards/spoton2.png",
+      "type": "award",
+      "carousel": true
+    },
+    {
+      "title": "Anchor Catalyst",
+      "year": 2022,
+      "issuer": "Poonawalla Fincorp",
+      "description": "Recognized for exceptional behaviour at workplace.",
+      "image": "assets/awards/anchor.png",
+      "type": "award",
+      "carousel": true
+    }
+  ],
+  "thoughtLeadership": {
+    "quotes": [
+      {
+        "text": "Automation and data-driven insights are the backbone of efficiency in BFSI.",
+        "source": "Self"
+      }
+    ],
+    "articles": [],
+    "speaking": []
+  },
+  "testimonials": [
+    {
+      "name": "Colleague Feedback",
+      "role": "Senior Analyst",
+      "organization": "Poonawalla Fincorp",
+      "quote": "Karan has been instrumental in implementing automation projects that saved significant operational time.",
+      "image": "assets/testimonials/profile1.jpg",
+      "logo": "assets/logos/poonawalla.png",
+      "type": "individual",
+      "style": "card"
+    }
+  ],
+  "businessData": [
+    {
+      "metric": "Projects Automated",
+      "values": [2, 4, 8],
+      "unit": "",
+      "type": "line",
+      "visualization": "growth-trend",
+      "source": "internal"
+    },
+    {
+      "metric": "Operational Efficiency Gains",
+      "values": [10, 20, 35],
+      "unit": "%",
+      "type": "bar",
+      "visualization": "count-up",
+      "source": "internal"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Team Project Recognition",
+      "caption": "SpotOn Award Ceremony at Poonawalla Fincorp.",
+      "category": "Awards",
+      "tags": ["automation", "recognition"],
+      "url": "assets/gallery/award.jpg",
+      "type": "photo",
+      "lightbox": true
+    }
+  ],
+  "contact": {
+    "channels": [
+      {
+        "type": "email",
+        "value": "karanahire2204@gmail.com"
+      },
+      {
+        "type": "linkedin",
+        "value": "https://www.linkedin.com/in/karan-ahiriya"
+      },
+      {
+        "type": "phone",
+        "value": "9981833730"
+      }
+    ],
+    "availability": "Mon–Fri, 9am–6pm IST",
+    "form": true
+  },
+  "footer": {
+    "copyright": "© 2025 Karan Ahiriya. All rights reserved.",
+    "disclaimer": "This website is for professional branding purposes only.",
+    "socialLinks": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/karan-ahiriya"
+      }
+    ],
+    "navigationLinks": [
+      {
+        "label": "Career",
+        "url": "#timeline"
+      },
+      {
+        "label": "Contact",
+        "url": "#contact"
+      }
+    ],
+    "theme": "corporate"
+  }
+}
