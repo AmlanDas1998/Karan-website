@@ -1,173 +1,116 @@
 {
   "hero": {
-    "name": "Karan Ahiriya",
-    "title": "Manager – Data Science & Analytics | ETL & Automation Specialist",
-    "tagline": "Delivering scalable data pipelines, automation, and operational efficiency in BFSI.",
+    "name": "Satadru Mukherjee",
+    "title": "Business Intelligence Professional | Data Science & Analytics",
+    "tagline": "Transforming business strategy with data-driven insights, automation, and advanced analytics.",
     "portraitImage": "assets/portrait.jpg",
     "backgroundStyle": "gradient",
     "ctas": [
       {
         "label": "Download Profile",
-        "link": "assets/KaranAhiriyaCV.pdf"
+        "link": "assets/AmlanDasCV.pdf"
       },
       {
         "label": "LinkedIn",
-        "link": "https://www.linkedin.com/in/karan-ahiriya"
+        "link": "https://www.linkedin.com/in/satadru-mukherjee"
       }
     ],
     "theme": "dark"
   },
   "timeline": [
     {
-      "company": "Poonawalla Fincorp",
-      "role": "Manager (Data Science and Analytics)",
+      "company": "Poonawalla Fincorp Limited",
+      "role": "Assistant Manager",
       "location": "Pune, India",
-      "startYear": 2022,
+      "startYear": 2023,
       "endYear": "Present",
       "logo": "assets/logos/poonawalla.png",
-      "description": "Managing automation processes, scalable data engineering, and operational efficiency for BFSI domain.",
+      "description": "Leveraging Python, SQL, PowerBI, Azure Data Factory for data extraction, transformation and visualization.",
       "highlights": [
-        "Created and implemented automation processes for internal operations team.",
-        "Refined and monitored processes ensuring stability and durability of automation.",
-        "Focused on innovating with new technologies to enhance efficiency and accuracy."
+        "Established 22 new branches in 2 quarters, generating ₹580 Cr revenue.",
+        "Conducted campaign analysis using Python, SQL, PowerBI to enhance customer targeting.",
+        "Developed Propensity Forecast & Analyser for loan prediction using CFR and CIBIL data.",
+        "Automated datamart for ORM team integrating FinnOne and CCA data sources."
+      ]
+    },
+    {
+      "company": "Enstine Software Solutions (OPC) Pvt Ltd",
+      "role": "Data Scientist",
+      "location": "India",
+      "startYear": 2023,
+      "endYear": 2023,
+      "logo": "assets/logos/enstine.png",
+      "description": "Worked on data pre-processing, visualization, and text/audio analysis.",
+      "highlights": [
+        "Performed data pre-processing with Pandas and Numpy.",
+        "Visualization using Seaborn and Matplotlib.",
+        "Used Pytesseract, GTTS, Pydub for OCR and speech-to-text projects."
+      ]
+    },
+    {
+      "company": "JP Research India Pvt Ltd",
+      "role": "Junior Engineer Associate",
+      "location": "India",
+      "startYear": 2021,
+      "endYear": 2022,
+      "logo": "assets/logos/jpresearch.png",
+      "description": "Worked on BI and safety model development for automotive clients.",
+      "highlights": [
+        "Collaborated with govt officials and automotive clients on BI initiatives.",
+        "Developed safety models to reduce vehicle accidents.",
+        "Led a team of 3 ensuring project success."
+      ]
+    },
+    {
+      "company": "Diva Ravi Agro & Founders Pvt Ltd",
+      "role": "Junior Engineer",
+      "location": "India",
+      "startYear": 2018,
+      "endYear": 2021,
+      "logo": "assets/logos/divaravi.png",
+      "description": "Worked on manufacturing operations and production efficiency.",
+      "highlights": [
+        "Met quality assurance targets consistently.",
+        "Enhanced knowledge of manufacturing processes.",
+        "Oversaw production operations and optimized team workflows."
       ]
     }
   ],
-  "achievements": [
-    {
-      "label": "Years of Experience",
-      "value": 2.5,
-      "suffix": "+",
-      "icon": "assets/icons/experience.png",
-      "animation": "counter"
-    },
-    {
-      "label": "Automation Projects Delivered",
-      "value": 4,
-      "suffix": "+",
-      "icon": "assets/icons/projects.png",
-      "animation": "counter"
-    },
-    {
-      "label": "Awards Won",
-      "value": 3,
-      "suffix": "",
-      "icon": "assets/icons/awards.png",
-      "animation": "counter"
-    },
-    {
-      "label": "Processes Automated",
-      "value": 10,
-      "suffix": "+",
-      "icon": "assets/icons/automation.png",
-      "animation": "counter"
-    }
-  ],
-  "awards": [
-    {
-      "title": "SpotOn Award",
-      "year": 2022,
-      "issuer": "Poonawalla Fincorp",
-      "description": "Awarded for creating Bureau reporting automation process.",
-      "image": "assets/awards/spoton1.png",
-      "type": "award",
-      "carousel": true
-    },
-    {
-      "title": "SpotOn Award",
-      "year": 2022,
-      "issuer": "Poonawalla Fincorp",
-      "description": "Awarded for delivering projects on time.",
-      "image": "assets/awards/spoton2.png",
-      "type": "award",
-      "carousel": true
-    },
-    {
-      "title": "Anchor Catalyst",
-      "year": 2022,
-      "issuer": "Poonawalla Fincorp",
-      "description": "Recognized for exceptional behaviour at workplace.",
-      "image": "assets/awards/anchor.png",
-      "type": "award",
-      "carousel": true
-    }
-  ],
+  "achievements": [],
+  "awards": [],
   "thoughtLeadership": {
-    "quotes": [
-      {
-        "text": "Automation and data-driven insights are the backbone of efficiency in BFSI.",
-        "source": "Self"
-      }
-    ],
+    "quotes": [],
     "articles": [],
     "speaking": []
   },
-  "testimonials": [
-    {
-      "name": "Colleague Feedback",
-      "role": "Senior Analyst",
-      "organization": "Poonawalla Fincorp",
-      "quote": "Karan has been instrumental in implementing automation projects that saved significant operational time.",
-      "image": "assets/testimonials/profile1.jpg",
-      "logo": "assets/logos/poonawalla.png",
-      "type": "individual",
-      "style": "card"
-    }
-  ],
-  "businessData": [
-    {
-      "metric": "Projects Automated",
-      "values": [2, 4, 8],
-      "unit": "",
-      "type": "line",
-      "visualization": "growth-trend",
-      "source": "internal"
-    },
-    {
-      "metric": "Operational Efficiency Gains",
-      "values": [10, 20, 35],
-      "unit": "%",
-      "type": "bar",
-      "visualization": "count-up",
-      "source": "internal"
-    }
-  ],
-  "gallery": [
-    {
-      "title": "Team Project Recognition",
-      "caption": "SpotOn Award Ceremony at Poonawalla Fincorp.",
-      "category": "Awards",
-      "tags": ["automation", "recognition"],
-      "url": "assets/gallery/award.jpg",
-      "type": "photo",
-      "lightbox": true
-    }
-  ],
+  "testimonials": [],
+  "businessData": [],
+  "gallery": [],
   "contact": {
     "channels": [
       {
         "type": "email",
-        "value": "karanahire2204@gmail.com"
+        "value": "satadrumukherjee1996@gmail.com"
       },
       {
         "type": "linkedin",
-        "value": "https://www.linkedin.com/in/karan-ahiriya"
+        "value": "https://www.linkedin.com/in/satadru-mukherjee"
       },
       {
         "type": "phone",
-        "value": "9981833730"
+        "value": "9038370211"
       }
     ],
     "availability": "Mon–Fri, 9am–6pm IST",
     "form": true
   },
   "footer": {
-    "copyright": "© 2025 Karan Ahiriya. All rights reserved.",
+    "copyright": "© 2025 Satadru Mukherjee. All rights reserved.",
     "disclaimer": "This website is for professional branding purposes only.",
     "socialLinks": [
       {
         "platform": "LinkedIn",
-        "url": "https://www.linkedin.com/in/karan-ahiriya"
+        "url": "https://www.linkedin.com/in/satadru-mukherjee"
       }
     ],
     "navigationLinks": [

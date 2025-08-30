@@ -4,11 +4,15 @@
   "private": true,
   "type": "commonjs",
   "scripts": {
-    "build": "node scripts/build.js config/sample.json output/demo",
-    "build:custom": "node scripts/build.js <CONFIG_PATH> <OUTPUT_DIR>"
+    "build": "node scripts/build.js config/sample.json output",
+    "build:custom": "node scripts/build.js <CONFIG_PATH> <OUTPUT_DIR>",
+    "deploy": "gh-pages -d output"
   },
   "dependencies": {
     "fs-extra": "^11.2.0",
     "handlebars": "^4.7.8"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
